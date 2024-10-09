@@ -1,0 +1,25 @@
+Projet 3 : Interrogation d'une base de données avec SQL
+
+**Client : Dat'Assur Habitation**
+
+**Contexte et enjeux de la mission :**
+
+- Dat'Assur Habitation est une entreprise spécialisée dans l'assurance habitation. La direction souhaitait se différencier de la concurrence en exploitant les données pour analyser son portefeuille de contrats et ainsi devenir plus "Data-Driven".
+  
+- La mission consistait à faire un état des lieux des contrats actuels.
+  
+- Les objectifs des analyses visaient à permettre à la direction de : Réviser les prix des contrats d'assurance afin de se démarquer sur le marché, harmoniser les tarifs, identifier les segments de clients qui paient selon certains critères (profil, localisation, profession, formule, type de contrat, type de bien...), et standardiser sa politique tarifaire pour être plus compétitive en offrant à chaque client une grille tarifaire claire.
+
+**Méthodologie / outils utilisés :**
+
+- SQL
+
+**Résultats obtenus :**
+
+Dans les livrables, vous retrouverez des concepts tels que les dimensions, indicateurs et les fonctions d'agrégation utilisées dans les requêtes SQL. Ces dernières ont permis de définir la répartition géographique des adhérents, le prix moyen des abonnements par type de bien, par profession, par formule, par type de contrat, et en fonction de la valeur des biens déclarés.
+
+**Compétences acquises :**
+
+- Charger des données dans une base de données
+- Rédiger des scripts SQL simples pour faciliter la prise de décisions commerciales
+
